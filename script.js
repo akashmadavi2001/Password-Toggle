@@ -10,4 +10,4 @@ eyes.onclick = function () {
         password.type = "password";
         eyes.src = "hide.png";
     }
-}
+};
